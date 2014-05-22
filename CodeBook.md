@@ -24,13 +24,13 @@ MergedData columns
 
 1. subjects - the code associated to each subject that participate of the measurements.
 2. activities - the description of the activity realized by one subject
-3-561 - measurements used by the original project listed on the features.txt file
+3. columns 3 to 561 - measurements used by the original project listed on the features.txt file
 
 TidyData columns
 
 1. subjects - the code associated to each subject that participate of the measurements.
 2. activities - the description of the activity realized by one subject
-3-561 - measurements used by the original project listed on the features.txt file
+3. columns 3 to 561 - measurements used by the original project listed on the features.txt file
 
 MeanStdDev columns
 
